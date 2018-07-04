@@ -1,12 +1,22 @@
-body {
-    background-color= "#cceeff";
-}
-p {
+.title {
     font-size: 30px;
     color: #00134d;
     font-family: monospace;
 }
-img {
+.start {
+    font-size: 30px;
+    color: #00134d;
+    font-family: monospace;
+}
+.end {
+    font-size: 30px;
+    color: #00134d;
+    font-family: monospace;
+}
+.skink {
     width: 300px;
     height: 200px;
+}
+body {
+    background-color= "#cceeff";
 }
