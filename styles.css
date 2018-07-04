@@ -1,3 +1,12 @@
 body {
-    background-color= "#cceeff"
+    background-color= "#cceeff";
+}
+p {
+    font-size: 30px;
+    color: #00134d;
+    font-family: monospace;
+}
+img {
+    width: 300px;
+    height: 200px;
 }
