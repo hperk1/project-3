@@ -1,22 +1,22 @@
-.title {
+#title {
     font-size: 30px;
     color: #00134d;
     font-family: monospace;
 }
-.start {
+#start {
     font-size: 30px;
     color: #00134d;
     font-family: monospace;
 }
-.end {
+#end {
     font-size: 30px;
     color: #00134d;
     font-family: monospace;
 }
-.skink {
+#skink {
     width: 300px;
     height: 200px;
 }
-body {
+#backthere {
     background-color= "#cceeff";
 }
